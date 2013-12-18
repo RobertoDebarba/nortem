@@ -1,0 +1,250 @@
+<?xml version="1.0"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="12">
+      <Unit0>
+        <Filename Value="Nortem.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Nortem"/>
+        <EditorIndex Value="2"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="21" Y="10"/>
+        <UsageCount Value="140"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="umain.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmMain"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uMain"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="19" Y="15"/>
+        <UsageCount Value="140"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="uresolucao.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FrmResolucao"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uresolucao"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="10" Y="6"/>
+        <UsageCount Value="132"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="uSobre.lfm"/>
+        <IsPartOfProject Value="True"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="31"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="uSobre.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmSobre"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uSobre"/>
+        <EditorIndex Value="1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="7" Y="5"/>
+        <UsageCount Value="31"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="uintro.pas"/>
+        <ComponentName Value="frmIntro"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uIntro"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="20"/>
+        <CursorPos X="44" Y="34"/>
+        <UsageCount Value="126"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="uinicio.pas"/>
+        <ComponentName Value="frmInicio"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uInicio"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="24"/>
+        <CursorPos X="10" Y="28"/>
+        <UsageCount Value="126"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="upratica.pas"/>
+        <ComponentName Value="frmPratica"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uPratica"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="23" Y="19"/>
+        <UsageCount Value="64"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="ucalculo.lfm"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="31"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="ucalculo.pas"/>
+        <ComponentName Value="frmCalculo"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uCalculo"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="3"/>
+        <CursorPos X="5" Y="17"/>
+        <UsageCount Value="31"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="/usr/share/lazarus/1.0.12/lcl/include/control.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="3261"/>
+        <CursorPos X="1" Y="3264"/>
+        <UsageCount Value="13"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="/usr/share/lazarus/1.0.12/lcl/include/customform.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="2059"/>
+        <CursorPos X="1" Y="2070"/>
+        <UsageCount Value="9"/>
+      </Unit11>
+    </Units>
+    <General>
+      <ActiveWindowIndexAtStart Value="0"/>
+    </General>
+    <JumpHistory Count="25" HistoryIndex="24">
+      <Position1>
+        <Filename Value="uresolucao.pas"/>
+        <Caret Line="354" Column="7" TopLine="349"/>
+      </Position1>
+      <Position2>
+        <Filename Value="uresolucao.pas"/>
+        <Caret Line="355" Column="7" TopLine="350"/>
+      </Position2>
+      <Position3>
+        <Filename Value="uresolucao.pas"/>
+        <Caret Line="354" Column="7" TopLine="349"/>
+      </Position3>
+      <Position4>
+        <Filename Value="uresolucao.pas"/>
+        <Caret Line="162" Column="18" TopLine="141"/>
+      </Position4>
+      <Position5>
+        <Filename Value="uresolucao.pas"/>
+        <Caret Line="105" Column="34" TopLine="95"/>
+      </Position5>
+      <Position6>
+        <Filename Value="uresolucao.pas"/>
+        <Caret Line="371" Column="33" TopLine="355"/>
+      </Position6>
+      <Position7>
+        <Filename Value="uresolucao.pas"/>
+        <Caret Line="363" Column="44" TopLine="353"/>
+      </Position7>
+      <Position8>
+        <Filename Value="uresolucao.pas"/>
+        <Caret Line="174" Column="20" TopLine="144"/>
+      </Position8>
+      <Position9>
+        <Filename Value="uresolucao.pas"/>
+        <Caret Line="170" Column="22" TopLine="136"/>
+      </Position9>
+      <Position10>
+        <Filename Value="uresolucao.pas"/>
+        <Caret Line="168" Column="21" TopLine="134"/>
+      </Position10>
+      <Position11>
+        <Filename Value="uresolucao.pas"/>
+        <Caret Line="313" Column="30" TopLine="304"/>
+      </Position11>
+      <Position12>
+        <Filename Value="uresolucao.pas"/>
+        <Caret Line="307" Column="72" TopLine="297"/>
+      </Position12>
+      <Position13>
+        <Filename Value="uresolucao.pas"/>
+        <Caret Line="321" Column="36" TopLine="309"/>
+      </Position13>
+      <Position14>
+        <Filename Value="uresolucao.pas"/>
+        <Caret Line="320" Column="42" TopLine="309"/>
+      </Position14>
+      <Position15>
+        <Filename Value="uresolucao.pas"/>
+        <Caret Line="321" Column="43" TopLine="310"/>
+      </Position15>
+      <Position16>
+        <Filename Value="uresolucao.pas"/>
+        <Caret Line="315" Column="67" TopLine="307"/>
+      </Position16>
+      <Position17>
+        <Filename Value="uresolucao.pas"/>
+        <Caret Line="314" Column="1" TopLine="303"/>
+      </Position17>
+      <Position18>
+        <Filename Value="uresolucao.pas"/>
+        <Caret Line="316" Column="29" TopLine="308"/>
+      </Position18>
+      <Position19>
+        <Filename Value="uresolucao.pas"/>
+        <Caret Line="369" Column="11" TopLine="363"/>
+      </Position19>
+      <Position20>
+        <Filename Value="uresolucao.pas"/>
+        <Caret Line="56" Column="12" TopLine="36"/>
+      </Position20>
+      <Position21>
+        <Filename Value="uresolucao.pas"/>
+        <Caret Line="96" Column="12" TopLine="64"/>
+      </Position21>
+      <Position22>
+        <Filename Value="uresolucao.pas"/>
+        <Caret Line="125" Column="29" TopLine="106"/>
+      </Position22>
+      <Position23>
+        <Filename Value="uresolucao.pas"/>
+        <Caret Line="114" Column="10" TopLine="110"/>
+      </Position23>
+      <Position24>
+        <Filename Value="uSobre.pas"/>
+        <Caret Line="18" Column="126" TopLine="1"/>
+      </Position24>
+      <Position25>
+        <Filename Value="uresolucao.pas"/>
+        <Caret Line="5" Column="43" TopLine="1"/>
+      </Position25>
+    </JumpHistory>
+  </ProjectSession>
+  <Debugging>
+    <Watches Count="1">
+      <Item1>
+        <Expression Value="labelatual"/>
+      </Item1>
+    </Watches>
+  </Debugging>
+</CONFIG>
