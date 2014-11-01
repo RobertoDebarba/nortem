@@ -1,7 +1,7 @@
 object frmSobre: TfrmSobre
   Left = 390
   Height = 380
-  Top = 26
+  Top = 27
   Width = 449
   BorderIcons = [biSystemMenu]
   BorderStyle = bsSingle
@@ -10,7 +10,7 @@ object frmSobre: TfrmSobre
   ClientWidth = 449
   Color = clWhite
   Position = poDesktopCenter
-  LCLVersion = '1.0.14.0'
+  LCLVersion = '1.0.12.0'
   object Image1: TImage
     Left = 24
     Height = 128
@@ -345,135 +345,159 @@ object frmSobre: TfrmSobre
   end
   object Label1: TLabel
     Left = 179
-    Height = 26
+    Height = 29
     Top = 152
-    Width = 102
+    Width = 105
     Caption = 'NORTEM'
-    Font.Height = -21
+    Font.Height = -24
+    Font.Name = 'Arial'
     Font.Style = [fsBold]
     ParentColor = False
     ParentFont = False
   end
   object Label2: TLabel
     Left = 103
-    Height = 26
+    Height = 29
     Top = 184
     Width = 252
     Caption = 'Normalizador de Tempo'
-    Font.Height = -21
+    Font.Height = -24
+    Font.Name = 'Arial'
     ParentColor = False
     ParentFont = False
   end
   object Label3: TLabel
-    Left = 315
-    Height = 20
+    Left = 317
+    Height = 21
     Top = 225
-    Width = 40
+    Width = 38
     Caption = 'v 1.0'
-    Font.Height = -16
+    Font.Height = -17
+    Font.Name = 'Arial'
     ParentColor = False
     ParentFont = False
   end
   object Label4: TLabel
     Left = 49
-    Height = 20
+    Height = 21
     Top = 256
-    Width = 144
+    Width = 135
     Caption = 'Desenvolvimento:'
-    Font.Height = -16
+    Font.Height = -17
+    Font.Name = 'Arial'
     Font.Style = [fsUnderline]
     ParentColor = False
     ParentFont = False
   end
   object Label5: TLabel
     Left = 40
-    Height = 20
+    Height = 21
     Top = 280
-    Width = 154
+    Width = 150
     Caption = 'Jonathan Eli Suptitz'
-    Font.Height = -16
+    Font.Height = -17
+    Font.Name = 'Arial'
     ParentColor = False
     ParentFont = False
   end
   object Label6: TLabel
     Left = 32
-    Height = 20
+    Height = 21
     Top = 304
-    Width = 174
+    Width = 164
     Caption = 'Roberto Luiz Debarba'
-    Font.Height = -16
+    Font.Height = -17
+    Font.Name = 'Arial'
     ParentColor = False
     ParentFont = False
   end
   object Label7: TLabel
-    Left = 249
-    Height = 16
+    Left = 245
+    Height = 19
     Top = 210
-    Width = 106
+    Width = 110
     Caption = 'Outubro de 2013'
+    Font.Height = -15
+    Font.Name = 'Arial'
     ParentColor = False
+    ParentFont = False
   end
   object Label8: TLabel
     Left = 272
-    Height = 20
+    Height = 21
     Top = 256
-    Width = 129
+    Width = 118
     Caption = 'Agradecimento:'
-    Font.Height = -16
+    Font.Height = -17
+    Font.Name = 'Arial'
     Font.Style = [fsUnderline]
     ParentColor = False
     ParentFont = False
   end
   object Label9: TLabel
     Left = 279
-    Height = 20
+    Height = 21
     Top = 280
-    Width = 111
+    Width = 110
     Caption = 'CEDUP Timbó'
-    Font.Height = -16
+    Font.Height = -17
+    Font.Name = 'Arial'
     ParentColor = False
     ParentFont = False
   end
   object Label10: TLabel
     Left = 248
-    Height = 20
+    Height = 21
     Top = 304
-    Width = 176
+    Width = 167
     Caption = 'Direção e professores'
-    Font.Height = -16
+    Font.Height = -17
+    Font.Name = 'Arial'
     ParentColor = False
     ParentFont = False
   end
   object Label11: TLabel
-    Left = 8
+    Left = 17
     Height = 16
     Top = 360
-    Width = 174
+    Width = 164
     Caption = 'roberto.debarba@gmail.com'
+    Font.Height = -13
+    Font.Name = 'Arial'
     ParentColor = False
+    ParentFont = False
   end
   object Label12: TLabel
-    Left = 16
+    Left = 25
     Height = 16
     Top = 344
-    Width = 153
+    Width = 148
     Caption = 'jonny.suptitz@gmail.com'
+    Font.Height = -13
+    Font.Name = 'Arial'
     ParentColor = False
+    ParentFont = False
   end
   object Label14: TLabel
-    Left = 200
+    Left = 202
     Height = 16
     Top = 360
     Width = 239
     Caption = 'Este software está sob a licença GPL v3'
+    Font.Height = -13
+    Font.Name = 'Arial'
     ParentColor = False
+    ParentFont = False
   end
   object Label13: TLabel
-    Left = 256
+    Left = 258
     Height = 16
     Top = 344
-    Width = 118
+    Width = 109
     Caption = 'Copyright (C) 2013'
+    Font.Height = -13
+    Font.Name = 'Arial'
     ParentColor = False
+    ParentFont = False
   end
 end

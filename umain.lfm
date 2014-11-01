@@ -1,8 +1,9 @@
 object frmMain: TfrmMain
-  Left = 521
+  Left = 306
   Height = 600
-  Top = 27
+  Top = 41
   Width = 840
+  BorderIcons = [biSystemMenu, biMinimize]
   BorderStyle = bsSingle
   Caption = 'Nortem'
   ClientHeight = 600
@@ -10,7 +11,7 @@ object frmMain: TfrmMain
   Color = clCream
   OnShow = FormShow
   Position = poDesktopCenter
-  LCLVersion = '1.0.12.0'
+  LCLVersion = '1.0.14.0'
   object panelCabecalho: TPanel
     Left = 0
     Height = 96
@@ -20,7 +21,10 @@ object frmMain: TfrmMain
     ClientHeight = 96
     ClientWidth = 840
     Color = 3893827
+    Font.Height = -16
+    Font.Name = 'Arial'
     ParentColor = False
+    ParentFont = False
     TabOrder = 1
     object Image1: TImage
       AnchorSideLeft.Control = panelCabecalho
@@ -773,17 +777,17 @@ object frmMain: TfrmMain
       AnchorSideTop.Control = Image1
       AnchorSideRight.Control = panelCabecalho
       AnchorSideRight.Side = asrBottom
-      Left = 243
+      Left = 239
       Height = 20
       Top = 15
-      Width = 361
-      BorderSpacing.Left = 89
+      Width = 363
+      BorderSpacing.Left = 85
       BorderSpacing.Top = 10
       BorderSpacing.Right = 150
       Caption = 'SISTEMA DE APOIO DIDÁTICO PROFISSIONAL'
       Font.Color = clWhite
-      Font.Height = -16
-      Font.Name = 'Sans'
+      Font.Height = -17
+      Font.Name = 'Arial'
       ParentColor = False
       ParentFont = False
     end
@@ -794,15 +798,15 @@ object frmMain: TfrmMain
       AnchorSideTop.Side = asrBottom
       AnchorSideRight.Control = Label2
       AnchorSideRight.Side = asrCenter
-      Left = 386
-      Height = 19
+      Left = 378
+      Height = 23
       Top = 40
-      Width = 74
+      Width = 85
       BorderSpacing.Top = 5
       Caption = 'NORTEM'
       Font.Color = clWhite
-      Font.Height = -15
-      Font.Name = 'Sans'
+      Font.Height = -19
+      Font.Name = 'Arial'
       Font.Style = [fsBold]
       ParentColor = False
       ParentFont = False
@@ -814,16 +818,16 @@ object frmMain: TfrmMain
       AnchorSideTop.Side = asrBottom
       AnchorSideRight.Control = Label3
       AnchorSideRight.Side = asrCenter
-      Left = 321
+      Left = 330
       Height = 20
-      Top = 64
-      Width = 205
+      Top = 65
+      Width = 181
       BorderSpacing.Left = 50
-      BorderSpacing.Top = 5
+      BorderSpacing.Top = 2
       Caption = '"Normalizador de tempo"'
       Font.Color = clWhite
-      Font.Height = -16
-      Font.Name = 'Sans'
+      Font.Height = -17
+      Font.Name = 'Arial'
       ParentColor = False
       ParentFont = False
     end
@@ -833,7 +837,10 @@ object frmMain: TfrmMain
       Top = 62
       Width = 75
       Caption = 'Sobre'
+      Font.Height = -16
+      Font.Name = 'Arial'
       OnClick = bttSobreClick
+      ParentFont = False
       TabOrder = 0
     end
   end
@@ -844,7 +851,7 @@ object frmMain: TfrmMain
     Width = 840
     Align = alClient
     AutoSize = True
-    Color = clBackground
+    Color = 14606046
     ParentColor = False
     TabOrder = 0
   end

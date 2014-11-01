@@ -28,7 +28,7 @@ uses
   cthreads,
   {$ENDIF}{$ENDIF}
   Interfaces, // this includes the LCL widgetset
-  Forms, uMain, uresolucao, uSobre;
+  Forms, uMain, uresolucao, uSobre, zparsesql;
 
 {$R *.res}
 
